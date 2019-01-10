@@ -1,0 +1,40 @@
+ul {
+  color: #006699;
+}
+.image-note {
+  float: left;
+  padding: 2px;
+  width: 170px;
+}
+img {
+  width: 150px;
+}
+.recently-featured{
+  text-align: right;
+}
+.archive{
+  text-align: right;
+  font-weight: bold;
+}
+.panel-title{
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.panel-heading{
+  padding: 5px;
+}
+
+.panel {
+  margin: 5px;
+  border: 1px solid #bbedda;
+  padding: 5px;
+  background-color: #f4fffb;
+  border-radius: 0;
+}
+.panel-success .panel-heading {
+  border-radius: 0;
+  background-color: #bbedda;
+  border: 1px solid grey;
+}
