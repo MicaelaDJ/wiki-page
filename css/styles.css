@@ -38,3 +38,6 @@ img {
   background-color: #bbedda;
   border: 1px solid grey;
 }
+.nav-tabs :nth-child(1n+3) {
+  float: right;
+}
