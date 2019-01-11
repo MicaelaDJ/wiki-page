@@ -1,3 +1,9 @@
+body{
+  background: #f2f2f2;
+}
+.container{
+  background: white;
+}
 ul {
   color: #006699;
 }
@@ -6,8 +12,18 @@ ul {
   padding: 2px;
   width: 170px;
 }
-img {
+.panel img {
   width: 150px;
+}
+hr {
+  border: 2px solid red;
+}
+
+.sidebar img{
+  width: 120px;
+}
+.sidebar{
+  padding: 20px;
 }
 .recently-featured{
   text-align: right;
@@ -38,6 +54,11 @@ img {
   background-color: #bbedda;
   border: 1px solid grey;
 }
-.nav-tabs :nth-child(1n+3) {
+.nav-tabs :n nth-child(1n+3) {
   float: right;
+}
+
+.sidebar{
+  float: left;
+  background
 }
